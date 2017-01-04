@@ -7,5 +7,5 @@
 
 
 
-ElTruco.lua
-ElTruco.xml
+trucWoW.lua
+trucWoW.xml
