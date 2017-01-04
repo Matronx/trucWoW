@@ -1,7 +1,6 @@
 ## Interface: 70100
 ## Title :  Matronx's Truco Addon.
 ## Notes :  Truco Card Game for WoW. 
-## Author:  Matronx#1777 - MGLO 
 ## Version: 1.0.01
 
 
