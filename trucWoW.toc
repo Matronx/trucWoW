@@ -1,6 +1,7 @@
 ## Interface: 70100
 ## Title :  Matronx's Truco Addon.
 ## Notes :  Truco Card Game for WoW. 
+## Authors:  Matronx#1777 - Mathias Gabriel Lucas Olejnik. PeaKend#1363 - Facundo Julian Atrio.
 ## Version: 1.0.01
 
 
